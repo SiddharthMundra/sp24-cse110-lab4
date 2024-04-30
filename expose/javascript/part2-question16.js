@@ -5,11 +5,11 @@ let statistics = {
     raceCars: 5,
     blackCars: 40,
     rareCars: 2
-  };
+};
   
-  for (let x in statistics) {
-    if (x[0] === 'r' || statistics[x] % 2 !== 0) {
-      console.log(statistics[x]);
-    }
+for (let x in statistics) {
+  if (x[0] === 'r' || statistics[x] % 2 !== 0) {
+    console.log(statistics[x]);
   }
+}
   

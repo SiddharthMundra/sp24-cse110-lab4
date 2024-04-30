@@ -4,13 +4,13 @@
 12D. student['Favorite Teacher'].name;
 12E. student.courseLoad[0];
 
-13A. 32 - When we use the + operator in javascript, if the first number is a string, the result is concatenated.
-13B. 31 - When we use the - operator in javascript and if the first number is a string, then it automatically converts the string to a number and performs the subtraction
+13A. '32' - When we use the + operator in javascript, if the first number is a string, the result is concatenated.
+13B. 1 - When we use the - operator in javascript and if the first number is a string, then it automatically converts the string to a number and performs the subtraction
 13C. 3 - This is because javascript treats null as 0
-13D. 3null - Since '3' is a string, the result is concatenated
+13D. '3null' - Since '3' is a string, the result is concatenated
 13E. 4 - The boolean 'true' is converted to a 1
 13F. 0 - False and null are both treated as numeric values of 0
-13G. 3undefined - Since '3' is a string, the result is concatenated
+13G. '3undefined' - Since '3' is a string, the result is concatenated
 13H. Nan (not a number) - Since we are using subtract with a string, javascript tries to convert both operands into numbers
 
 14A. true - javascript converts the string '2' to the number 2, and then compares it to 1

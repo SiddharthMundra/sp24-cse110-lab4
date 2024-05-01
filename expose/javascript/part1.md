@@ -16,14 +16,13 @@ Part 2:
 3. It will print 150 as if you do the math of the variable finalPrice, it is what you get.
 
 
-4. The function will return the array containing the discounted prices after calculating discounts [50, 100, 150]. But nothing will be printed on the console -- CHECK
+4. The function will return the array containing the discounted prices after calculating discounts [50, 100, 150]. But nothing will be printed on the console.
 
-
-5. It will return an eror as we have used "let" while defining i, hence we cannot access it outside the for loop    code block.
+5. It will return an eror as we have used "let" while defining i, hence we cannot access it outside the for loop code block.
 6. It will return an eror as we have used "let" while defining discountedPrice, hence we cannot access it outside the for loop code block.
 7. It will print 150 as if you do the math of the variable finalPrice, it is what you get. Since it is
 
-8. The function will return (3) [50, 100, 150]
+8. The function will return [50, 100, 150]
 9.  It will return an eror as we have used "const" while defining i, hence we cannot access it outside the for loop code block.
 10. It will print the value 3
 
